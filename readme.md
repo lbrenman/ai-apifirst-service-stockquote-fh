@@ -1,6 +1,6 @@
 # Amplify Integration - Stock API
 
-A stock quote and watch list API based on [**Finnhub**](https://finnhub.io/) created in Amplify Integration using Amplify Integration API First features using Services for easy OAS Doc Updates
+A stock quote and watch list API based on [**Finnhub**](https://finnhub.io/) created in Amplify Integration using Amplify Integration API First features using Services for easy OAS Doc Updates 
 
 The project exposes two end points
 * `GET /quote?symbol=AAPL`
